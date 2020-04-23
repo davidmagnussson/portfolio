@@ -1,0 +1,19 @@
+.Button {
+    border-radius: 10px;
+    font-weight: 400;
+    background: linear-gradient(90deg, rgba(255,112,23,1) 10%, rgba(255,169,119,1) 100%);
+    border: none!important;
+    outline: none!important;
+    color: white;
+}
+
+.Button:active {
+    outline: none!important;
+    border: none;
+    $this: &;
+    
+    &:focus {
+        outline: none!important;
+        border: none;
+    }
+}
