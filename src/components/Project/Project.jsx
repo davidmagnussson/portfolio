@@ -18,9 +18,9 @@ class Project extends Component {
                     </div>
                     <img src={this.props.img} height="100%" width="100%" style={{ borderRadius: "10px" }} />
                 </div>
-                <Link to={this.props.id}>
-                    <Button class="projectButton" name={this.props.id + "--button"} width="90" height="45" content="Show" />
-                </Link>
+                {/* <Link to={this.props.id}> */}
+                <Button class="projectButton" name={this.props.id + "--button"} width="90" height="45" content="Show" />
+                {/* </Link> */}
             </div >
         );
     }
