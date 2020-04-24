@@ -9,14 +9,13 @@ import projectData from './projectData.js';
 export default function App() {
 
   return (
-    <Router>
+    <Router basename="/">
       <div>
         <Switch>
           <Route exact path="/">
             <Header />
             <Home />
           </Route>
-
 
           <Route path="/clintri">
             <ProjectSite title={projectData.clintri.title} secondaryTitle={projectData.clintri.secondaryTitle} description={projectData.clintri.description} img={projectData.clintri.img} programsUsed={projectData.clintri.programsUsed} linkWebsite={projectData.clintri.linkWebsite} linkGithub={projectData.clintri.linkGit} />
