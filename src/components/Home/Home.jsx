@@ -12,7 +12,7 @@ class Home extends Component {
 
     render() {
         return (
-            <div id="Home">
+            <div id="Home">  
                 <div>
                     <h1><i>Hello! I am David Magnusson. Welcome to my personal website / portfolio!</i></h1>
                     <a href="mailto:davidmagnusson97@gmail.com" ><Button name="contact" position="center" width="120" height="50" content="Contact me" /></a>
