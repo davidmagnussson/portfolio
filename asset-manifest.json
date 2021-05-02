@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.de0e1b00.chunk.css",
+    "main.css": "/portfolio/static/css/main.11508d02.chunk.css",
     "main.js": "/portfolio/static/js/main.eda404da.chunk.js",
     "main.js.map": "/portfolio/static/js/main.eda404da.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.075c0788.js",
@@ -9,16 +9,17 @@
     "static/js/2.9af7e787.chunk.js": "/portfolio/static/js/2.9af7e787.chunk.js",
     "static/js/2.9af7e787.chunk.js.map": "/portfolio/static/js/2.9af7e787.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.1f5507c69cfcd99182e6d712b82e277b.js": "/portfolio/precache-manifest.1f5507c69cfcd99182e6d712b82e277b.js",
+    "precache-manifest.773a658bd0d62b7906831e49e1f13a37.js": "/portfolio/precache-manifest.773a658bd0d62b7906831e49e1f13a37.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.b0704b7a.chunk.css.map": "/portfolio/static/css/2.b0704b7a.chunk.css.map",
-    "static/css/main.de0e1b00.chunk.css.map": "/portfolio/static/css/main.de0e1b00.chunk.css.map",
+    "static/css/main.11508d02.chunk.css.map": "/portfolio/static/css/main.11508d02.chunk.css.map",
     "static/js/2.9af7e787.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9af7e787.chunk.js.LICENSE.txt",
     "static/media/StudyGuide.PNG": "/portfolio/static/media/StudyGuide.07ae37d7.PNG",
     "static/media/Visualizing_groups.PNG": "/portfolio/static/media/Visualizing_groups.1fdab28e.PNG",
     "static/media/clintri.PNG": "/portfolio/static/media/clintri.f19351f0.PNG",
     "static/media/default.PNG": "/portfolio/static/media/default.84d48918.PNG",
     "static/media/firebase.png": "/portfolio/static/media/firebase.07402ffc.png",
+    "static/media/Header.scss": "/portfolio/static/media/headerimage.0b992db9.jpg",
     "static/media/html.jpg": "/portfolio/static/media/html.d058f862.jpg",
     "static/media/js.png": "/portfolio/static/media/js.23e9beb6.png",
     "static/media/meteor.png": "/portfolio/static/media/meteor.8f5130c8.png",
@@ -31,7 +32,7 @@
     "static/js/runtime-main.075c0788.js",
     "static/css/2.b0704b7a.chunk.css",
     "static/js/2.9af7e787.chunk.js",
-    "static/css/main.de0e1b00.chunk.css",
+    "static/css/main.11508d02.chunk.css",
     "static/js/main.eda404da.chunk.js"
   ]
 }
