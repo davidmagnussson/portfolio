@@ -50,7 +50,7 @@ class Home extends Component {
                         </Col>
                         <Col xs={8} md={8} lg={8}>
                             <div id="about-text">
-                                <h2>Who is David?</h2>
+                                <h2>Who is David?</h2> 
                                 <p>
                                     Hello! I am David Magnusson and I am from Stockholm, Sweden. I am a master’s student at the Royal Institute of Technology in Stockholm. I am pursuing a degree in Interactive media technology with a specialization on visual media and visualization. Few of my interest besides programming is american football, padel and photography among others!
 
