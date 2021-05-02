@@ -55,7 +55,7 @@ class Home extends Component {
                                     Hello! I am David Magnusson and I am from Stockholm, Sweden. I am a master’s student at the Royal Institute of Technology in Stockholm. I am pursuing a degree in Interactive media technology with a specialization on visual media and visualization. Few of my interest besides programming is american football, padel and photography among others!
 
                                     If you are looking for someone to help you create your own website hit me up! I would gladly help you. Looking forward to hearing from you soon!
-                                     </p>
+                                </p>
                             </div>
                         </Col>
                     </Row>

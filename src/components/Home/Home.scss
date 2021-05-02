@@ -10,7 +10,7 @@
     top: 50px;
     display: grid;    
     margin: auto;
-    width: 80%;
+    width: 840px;
     padding: auto;      
 }
 
@@ -23,6 +23,7 @@
     display: inline-grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
+    padding: 0px;
     margin: 0px;
     width: 100%;
 }
