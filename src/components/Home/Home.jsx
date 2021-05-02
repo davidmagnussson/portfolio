@@ -19,10 +19,12 @@ class Home extends Component {
                 </div>
                 <div id="previous-projects">
                     <h2>Previous projects</h2>
+                    <div id="projects">
                     <Project id="clintri" img={require("../../assets/images/clintri.PNG")} name="ClinTri" />
                     <Project id="studyguide-coach" img={require("../../assets/images/StudyGuide.PNG")} name="StudyGuide Coach" />
                     <Project id="groupvisualizationtool" img={require("../../assets/images/Visualizing_groups.PNG")} name="Group Visualization Tool" />
                     <Project id="gametrendanalytics" img={require("../../assets/images/default.PNG")} name="Game Trend Analytics" />
+                    </div>                    
                 </div>
                 <div id="previous-knowledge">
                     <h2>Previous programs and libraries I have worked with</h2>

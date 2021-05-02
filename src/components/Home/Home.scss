@@ -2,12 +2,13 @@
 
 #Home h1, #Home h2, #contact{ 
     text-align: center;
+    color: #f8f8f8;
 }
 
 #previous-projects, #previous-knowledge  {
     position: relative;
-    top:50px;
-    display: block;
+    top: 50px;
+    display: grid;    
     margin: auto;
     width: 80%;
     padding: auto;      
@@ -15,14 +16,15 @@
 
 .Project {
     position: relative;
-    left:5%;
+    
 }
 
-#knowledges {
-    margin-top: 50px;
-    display: block;
-    margin: auto;
-    width: 90%;
+#knowledges, #projects {    
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    margin: 0px;
+    width: 100%;
 }
 
 h2 {
@@ -45,6 +47,7 @@ h2 {
 
     #about-text {
         padding:30px;
+        color: #f8f8f8;
     }
 }
 
@@ -59,7 +62,7 @@ h2 {
         font-weight: bold;
         font-size: 35px;
         margin-top: 25px;
-        color: white;
+        color: #f8f8f8;
         text-align: center; 
     }
 
